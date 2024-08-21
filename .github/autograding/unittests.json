@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_while_existing",
+    "function": "test_while_existing",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_while_new",
+    "function": "test_while_new",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_in_existing",
+    "function": "test_in_existing",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_in_new",
+    "function": "test_in_new",
+    "timeout": 10,
+    "points": 1
+  }
+]
