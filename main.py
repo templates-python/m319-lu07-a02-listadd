@@ -16,6 +16,7 @@ def while_else():
         my_list.append(new_fruit)
 
     print(f'Inhalt der Liste: {my_list}')
+    
 
 def if_in():
     # list of fruits
